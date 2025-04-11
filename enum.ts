@@ -20,7 +20,7 @@ const user1:LoginDetails={
     role:Roles.admin,
 }
 const user2:LoginDetails={
-    email:"diyavincent200@gmail.com",
+    email:"claude200@gmail.com",
     password:"123456",
     role:Roles.user,
 }
